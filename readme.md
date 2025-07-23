@@ -16,8 +16,7 @@ This project demonstrates PHP magic methods and OOP principles with a `Skill` cl
 
 - `src/Skill.php`
 - `tests/SkillTest.php`
-- `vendor/` – # Composer dependencies
-- `.phpunit.result.cache`
+- `vendor/` – # Composer dependencie
 - `composer.json`,
 - `composer.lock`,
 - `result.xml`,
