@@ -9,7 +9,7 @@ class SkillTest extends TestCase
     {
         $skill = new Skill();
         $function = 'has' . $this->generateRandomString(5);
-        $this->assertTrue($skill->$function(), 'success');
+        $this->assertSame('exist', $skill->$function(), 'success');
     }
 
     public function testHasPropertyExists(): void
@@ -40,7 +40,6 @@ class SkillTest extends TestCase
         $skill->language = 'PHP';
         $this->assertTrue( $skill->language === 'PHP', 'success');
     }
-
 
     public function testInvoke(): void
     {

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="SkillTest" file="/home/dushanhv/Desktop/PHP_BE_Config/tests/SkillTest.php" tests="6" assertions="6" errors="0" warnings="0" failures="0" skipped="0" time="0.001620">
+    <testcase name="testHasFunctionExists" class="SkillTest" classname="SkillTest" file="/home/dushanhv/Desktop/PHP_BE_Config/tests/SkillTest.php" line="8" assertions="1" time="0.001381"/>
+    <testcase name="testHasPropertyExists" class="SkillTest" classname="SkillTest" file="/home/dushanhv/Desktop/PHP_BE_Config/tests/SkillTest.php" line="16" assertions="1" time="0.000056"/>
+    <testcase name="testHasAnyPropertyExists" class="SkillTest" classname="SkillTest" file="/home/dushanhv/Desktop/PHP_BE_Config/tests/SkillTest.php" line="24" assertions="1" time="0.000050"/>
+    <testcase name="testObjectAsString" class="SkillTest" classname="SkillTest" file="/home/dushanhv/Desktop/PHP_BE_Config/tests/SkillTest.php" line="32" assertions="1" time="0.000016"/>
+    <testcase name="testSetSkillLanguage" class="SkillTest" classname="SkillTest" file="/home/dushanhv/Desktop/PHP_BE_Config/tests/SkillTest.php" line="38" assertions="1" time="0.000015"/>
+    <testcase name="testInvoke" class="SkillTest" classname="SkillTest" file="/home/dushanhv/Desktop/PHP_BE_Config/tests/SkillTest.php" line="45" assertions="1" time="0.000102"/>
+  </testsuite>
+</testsuites>

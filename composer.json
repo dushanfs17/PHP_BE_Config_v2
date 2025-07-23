@@ -3,8 +3,8 @@
   "description": "coalition technologies applicant exam",
   "type": "project",
   "require-dev": {
-    "php": "^7.4",
-    "phpunit/phpunit": "^9.5"
+    "php": ">=7.4",
+    "phpunit/phpunit": "^9.6"
   },
   "license": "MIT",
   "autoload": {
@@ -17,6 +17,5 @@
       "name": "Hamza Alayed",
       "email": "developerh108@gmail.com"
     }
-  ],
-  "require": {}
+  ]
 }
